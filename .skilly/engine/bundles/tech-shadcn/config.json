@@ -1,0 +1,10 @@
+{
+  "detect": { "files": ["components.json"] },
+  "includes": [],
+  "sources": [
+    {
+      "source": "shadcn-ui/ui",
+      "skills": ["shadcn"]
+    }
+  ]
+}
