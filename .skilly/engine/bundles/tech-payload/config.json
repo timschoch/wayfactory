@@ -1,0 +1,14 @@
+{
+  "detect": { "dependencies": ["payload", "@payloadcms/*"] },
+  "includes": [],
+  "sources": [
+    {
+      "source": "payloadcms/skills",
+      "skills": ["payload"]
+    },
+    {
+      "source": "timschoch/skilly",
+      "skills": ["payload-admin-components", "payload-cli"]
+    }
+  ]
+}

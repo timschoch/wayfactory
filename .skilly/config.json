@@ -1,0 +1,10 @@
+{
+  "tier": "sandbox",
+  "bundles": [
+    "workflow"
+  ],
+  "review": {
+    "bots": []
+  },
+  "hub": "v0.13.0"
+}

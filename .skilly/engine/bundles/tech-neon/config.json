@@ -1,0 +1,14 @@
+{
+  "detect": { "dependencies": ["@neondatabase/*", "neonctl"] },
+  "includes": ["tech-postgres"],
+  "sources": [
+    {
+      "source": "neondatabase/agent-skills",
+      "skills": ["neon", "neon-postgres"]
+    },
+    {
+      "source": "timschoch/skilly",
+      "skills": ["neon-cli"]
+    }
+  ]
+}

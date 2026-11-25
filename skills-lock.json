@@ -1,0 +1,362 @@
+{
+  "version": 1,
+  "skills": {
+    "1-3-1": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/1-3-1/SKILL.md",
+      "computedHash": "c7bb7663fa9733416be7c74f91bbb490394f70710e3f8620b2c7ed9f963032c3"
+    },
+    "afk": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/afk/SKILL.md",
+      "computedHash": "01011179cc9fe04330d7ac0191bbab9239a614be545aa5be68c3623775ee710b"
+    },
+    "arena": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/arena/SKILL.md",
+      "computedHash": "492773410ff8aaf066bdd8a4dbed5c3545b26bbbad8f07a21b3f4e87cf856bd0"
+    },
+    "ask-matt": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/ask-matt/SKILL.md",
+      "computedHash": "7a547958ff7237860b91ed7f11c516be143182b0387cb6bbeff80db9fd393a15"
+    },
+    "audit-agent-history": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/audit-agent-history/SKILL.md",
+      "computedHash": "99fd53d98b51f75937862c22f50dfb43789eee6db8074c7d903d5f6e063ed5a1"
+    },
+    "audit-skilly-workflow": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/audit-skilly-workflow/SKILL.md",
+      "computedHash": "ec4816ce07866a48dc71ec48e05bb3827e2c20289c8a961e974c4d35d24711ae"
+    },
+    "babysit-pr": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/babysit-pr/SKILL.md",
+      "computedHash": "4edc541cc4db20726d716239107e9961e54eefa1cb5f22b5883490643cc9e0d0"
+    },
+    "blast-radius": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/blast-radius/SKILL.md",
+      "computedHash": "2d3a5300788bfd4e4dd2ffde5b2904e97cfa0d350e67f4e3a632f5920221dcc1"
+    },
+    "cleanup-merged-branches": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/cleanup-merged-branches/SKILL.md",
+      "computedHash": "22567cc9180ec5d1951841f4149503f3863f5e0c329c0e84b1a1f408ee8f7fb8"
+    },
+    "code-review": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/code-review/SKILL.md",
+      "computedHash": "3ceda07157a7fe887e1770e14875e721cd54856b975ead854ebc1572cbface88"
+    },
+    "codebase-design": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/codebase-design/SKILL.md",
+      "computedHash": "b2888e4f4e8c0af3bfd557575a64b905c44e6248c3101d72077816882b3a92b9"
+    },
+    "context7": {
+      "source": "netresearch/context7-skill",
+      "sourceType": "github",
+      "skillPath": "skills/context7/SKILL.md",
+      "computedHash": "9dc85c0e42a4919f641002ed997cfa0bb6e1d8442e807bc732c70f43ec1ae143"
+    },
+    "deslop": {
+      "source": "cursor/plugins",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "cursor-team-kit/skills/deslop/SKILL.md",
+      "computedHash": "8883a7d459c07a0b2ee06972e79baa634009aa3bab969a6650acbefac394ad41"
+    },
+    "diagnosing-bugs": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/diagnosing-bugs/SKILL.md",
+      "computedHash": "ede7254edbd22fcab97a0941511f7d440d8f9a249348fea97c50987ad5501674"
+    },
+    "domain-modeling": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/domain-modeling/SKILL.md",
+      "computedHash": "b3eb40152b81f0c98fd2095a023c019452dbdce56f7540cc67fece2972db8369"
+    },
+    "git-shortcuts": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/git-shortcuts/SKILL.md",
+      "computedHash": "73e78ada3e491906a15d83d4c4fc4e26c675b0d576a4001b512a070b950e5306"
+    },
+    "grilling": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/grilling/SKILL.md",
+      "computedHash": "ef1641a2047b71b60f1942cd35efb47d3afc9d584dff5a0b01f8c7db923aaa08"
+    },
+    "hallmark": {
+      "source": "nutlope/hallmark",
+      "sourceType": "github",
+      "skillPath": "skills/hallmark/SKILL.md",
+      "computedHash": "fc2c1acfe7c57734c16f1565f24e8074db2898616723a9f7b75b99fe0e51067c"
+    },
+    "handoff": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/handoff/SKILL.md",
+      "computedHash": "8ebcf017c0a59681f3c2f1ebf90e32f481954a068181a75151c44aa2c55de4b4"
+    },
+    "how": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/how/SKILL.md",
+      "computedHash": "d6d0071430eb58007f1d3ac8d95ecb7e297b0adb813660fc2992d2d4ccffe370"
+    },
+    "implement": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/implement/SKILL.md",
+      "computedHash": "10f7ba88d4afb1849ee60de094f845d26990c0a5bb62d8a796d96913af99f49a"
+    },
+    "implement-spec": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/implement-spec/SKILL.md",
+      "computedHash": "f0db7dafd236fff9dc40da566cb72bbad6802674f64617b06959b00a436c7d5b"
+    },
+    "improve-codebase-architecture": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+      "computedHash": "ac2c94885f34ff8492dc12aa4543182f661f32ea1722b8d6b6c2c7045af33ae3"
+    },
+    "make-pr-easy-to-review": {
+      "source": "cursor/plugins",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "cursor-team-kit/skills/make-pr-easy-to-review/SKILL.md",
+      "computedHash": "8b3e62ce5609388731966d66725a0962e6d6c249bf384b84e131eb24de3c2b27"
+    },
+    "naming": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/naming/SKILL.md",
+      "computedHash": "481d5af35e421df49e12206c79ec90cbd0620b56ce0f5a96cee08f8f11b83f16"
+    },
+    "orchestrate": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/orchestrate/SKILL.md",
+      "computedHash": "3607a87b1417592ddee6a538e4aed87eddc82fe9c41a96ae6fb4b1d365573234"
+    },
+    "plan-critics": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/plan-critics/SKILL.md",
+      "computedHash": "e61ac12c695041f2e876517bba943f3f389d9ceb178018f2f29e105d135ea667"
+    },
+    "pr": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/pr/SKILL.md",
+      "computedHash": "22a15d4d469344b38e03eb0e95772478393975836289393b1bad3c0febcdc679"
+    },
+    "principle-encode-lessons-in-structure": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/principle-encode-lessons-in-structure/SKILL.md",
+      "computedHash": "200f578bf772cff030e7b18c582c935686375ddb6ebfe96b97bfee663434da21"
+    },
+    "principle-fix-root-causes": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/principle-fix-root-causes/SKILL.md",
+      "computedHash": "8765301148b527f0273c0d041019cc1b64ab61b44567c95d4c8936726a5ecb82"
+    },
+    "principle-guard-the-context-window": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/principle-guard-the-context-window/SKILL.md",
+      "computedHash": "242eab2560bade44af1de6709c1c2eaac168ee7fcb85e4fb7362cc9f23e6d5cf"
+    },
+    "principle-prove-it-works": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/principle-prove-it-works/SKILL.md",
+      "computedHash": "188868e9d4d1f12009d8b0aa80d2190607f9795acc8dcaad8fa46c3d78f838f4"
+    },
+    "progress": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/progress/SKILL.md",
+      "computedHash": "a544b46c89283795f29b9ed2be45acf69c275862e7bd44d63d201aefe401508d"
+    },
+    "prototype": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/prototype/SKILL.md",
+      "computedHash": "d3fc74689bd993e39c44bfae510d014eecffbeec2922764b065377fd1327c0f6"
+    },
+    "qa": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/qa/SKILL.md",
+      "computedHash": "0c315c4da01a369adf3d71337cc682fcb4f4b674839a95d2b2691c634f70b09c"
+    },
+    "research": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/research/SKILL.md",
+      "computedHash": "c8c1cba327a6f824b554cd978079a3dadd7406d73174f8fb9bfef58824691970"
+    },
+    "retro": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/retro/SKILL.md",
+      "computedHash": "b8d55851a2909e26c2dbb2e8563719c87b3b700559f604e4df344f8c27e21047"
+    },
+    "skilly-cli": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/skilly-cli/SKILL.md",
+      "computedHash": "2ccb2427bf3ff6fd2ba5742bb28f03967698459ac2c267c439a864abbe663754"
+    },
+    "step-by-step": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/step-by-step/SKILL.md",
+      "computedHash": "4ed24568e43d4c9e9164349a580344ef0974f51057255232e1a8f3e5dc4d8356"
+    },
+    "tdd": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/tdd/SKILL.md",
+      "computedHash": "daf55026f456af104a72fa43247f7bcec89e5127316dc5b1b8d675d6a9d8ce94"
+    },
+    "technical-writing": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/technical-writing/SKILL.md",
+      "computedHash": "c4eb7afddb86587ea5e269d3525a971c5dec81808370cab4f4f53f87a1eb7df9"
+    },
+    "term-check": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/term-check/SKILL.md",
+      "computedHash": "919d0874a081fdaf3d5bcbca8ecaa287e7fa438af36f7574aaced2795d5aaa14"
+    },
+    "thermo-nuclear-code-quality-review": {
+      "source": "cursor/plugins",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "cursor-team-kit/skills/thermo-nuclear-code-quality-review/SKILL.md",
+      "computedHash": "9052b01b46b1d8dbf94c45f9313ec1983443f9a460e83d49cdc7fe0f640ca476"
+    },
+    "to-questionnaire": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/to-questionnaire/SKILL.md",
+      "computedHash": "befbec7005695163741a57bc94810dc5048fb766baaa485d5160b1d7f86335c1"
+    },
+    "to-spec": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/to-spec/SKILL.md",
+      "computedHash": "e9aa6eba75b396d782f8154dc47e1cbea9b9189527433a9ebd035bcff0cc0c3a"
+    },
+    "to-tickets": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/to-tickets/SKILL.md",
+      "computedHash": "2057d3303bc1530ec4da858e095bc8174ba78f3a03054ccfa4789baeb5b60f46"
+    },
+    "triage": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/triage/SKILL.md",
+      "computedHash": "a683e69163e23630f39c05a50fb9d83a3795a6a6fbd317357669e082cd43a158"
+    },
+    "unslop": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/unslop/SKILL.md",
+      "computedHash": "9bace43ba8cc2c76bfd18ce3f508381f490013cac2116d747553cfcd5cb44c88"
+    },
+    "verify": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/verify/SKILL.md",
+      "computedHash": "a76e261c717968674723cb3213ba69aecd8ff7d5a7440db6943c1f45791c8524"
+    },
+    "wait-what": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/wait-what/SKILL.md",
+      "computedHash": "1921c02ea4046fd8f9c219140780233fe6e22e2fe4442961378da2ac31f3f403"
+    },
+    "wayfinder": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/wayfinder/SKILL.md",
+      "computedHash": "ff863845f4837d57224964b845cb845efaad01ca4f870802987d19fde58156ed"
+    },
+    "wdyt": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/wdyt/SKILL.md",
+      "computedHash": "141e9a2e8f1fc7128d616bccb13606fd820696be8463ad7e6689e6859012a60d"
+    },
+    "why": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/why/SKILL.md",
+      "computedHash": "c09c97721117820ce2e6fdeed000cae74e822cfac82d039b1812189626385489"
+    },
+    "wizard": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/wizard/SKILL.md",
+      "computedHash": "49298bed80e7f722b071ad5d64798c75eb705bbbe0635b9bbffd08cd6fb81647"
+    },
+    "writing-for-agents": {
+      "source": "timschoch/mattpocock-skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/writing-for-agents/SKILL.md",
+      "computedHash": "95da47fc97af998e85b7d7e6d57b3ac76727c1e290cfe9ea09005aacb826959f"
+    },
+    "writing-rules": {
+      "source": "timschoch/skilly",
+      "ref": "v0.13.0",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/writing-rules/SKILL.md",
+      "computedHash": "95130583cd6c23b2a0e4364a46fc985c023eb6016151f3cbc74ef3d06499337c"
+    }
+  }
+}

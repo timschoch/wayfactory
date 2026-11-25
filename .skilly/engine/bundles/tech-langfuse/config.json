@@ -1,0 +1,10 @@
+{
+  "detect": { "dependencies": ["langfuse", "@langfuse/*"] },
+  "includes": [],
+  "sources": [
+    {
+      "source": "langfuse/skills",
+      "skills": ["langfuse"]
+    }
+  ]
+}

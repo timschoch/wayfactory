@@ -1,0 +1,10 @@
+# skilly-owned files
+skills-lock.json
+.skilly
+.claude/rules
+.claude/skills
+.agents
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.github/workflows/ci.yml

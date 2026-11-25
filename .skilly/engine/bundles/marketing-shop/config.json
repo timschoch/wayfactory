@@ -1,0 +1,9 @@
+{
+  "includes": ["marketing"],
+  "sources": [
+    {
+      "source": "coreyhaines31/marketingskills",
+      "skills": ["churn-prevention", "emails", "referrals"]
+    }
+  ]
+}
